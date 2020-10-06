@@ -1,2 +1,2 @@
 # recipe-app-api
-Recipe app django w django rest from tutorial
+Recipe app django w django rest framework from tutorial
