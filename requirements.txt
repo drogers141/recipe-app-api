@@ -1,0 +1,4 @@
+# note keep to major version for no breaking changes
+# but allow minor version bumps for fixes
+Django>=2.1.3,<2.2.0
+djangorestframework>=3.9.0,<3.10.0
